@@ -1,4 +1,8 @@
 # Algothon2019
-
-## Event Page Link:
-https://www.notion.so/44dee7a386e54dcd8eedef30f540c9d4?v=8f61c073f67b425ead2314a937d4a04d
+Khariton, Alex, Kevin and James
+Files:
+- Algothon_2019_presentation.pdf (presentation slides)
+- Data Manipulation.ipynb (script to scrape and process data)
+- Manual_Implementation_Neural_Network.ipynb (script to manually do neural network)
+- exploratory_modelling.ipynb (pytorch exploration script [failed])
+- keras_implementation.ipynb (keras script that works)
