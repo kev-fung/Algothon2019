@@ -9,10 +9,11 @@ Khariton, Alex, Kevin and James
 
 ## Description
 Taking multi-input neural networks to replicate internal supply chain pricing for stock predictions. 
-See [presentation](https://github.com/kev-fung/Algothon2019/blob/master/Algathon_2019_presentation.pdf) for further info.
+See [presentation](https://github.com/kev-fung/Algothon2019/blob/master/Algathon_2019_presentation.pdf).
 
 ## Dependencies
 * Python
+* Matplotlib
 * Pandas
 * Keras
 * Quandl
